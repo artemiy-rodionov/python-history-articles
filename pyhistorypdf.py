@@ -63,4 +63,4 @@ for postlink in postlinks:
     content += '<div>' + topic + '</div>'
 
 
-go(content, 'pyton-history.pdf')
+go(content, 'python-history.pdf')
