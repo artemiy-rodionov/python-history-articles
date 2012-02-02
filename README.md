@@ -3,6 +3,8 @@ Python history blog articles
 
 This script take articles from the [blog](http://python-history.blogspot.com) and generate pdf file.
 
+You can download pdf with current articles from [here](https://github.com/artemiy-rodionov/python-history-articles/raw/master/python-history.pdf)
+
 How to run it
 -------------
 
