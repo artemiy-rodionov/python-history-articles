@@ -4,7 +4,7 @@ Python history blog articles
 This script take articles from the [.blog](http://python-history.blogspot.com) and generate pdf file.
 
 How to run it
-=============
+-------------
 
 #. Install Python 2.6.x or 2.7.x. Installation steps depends on your operating system.
 
