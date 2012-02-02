@@ -1,7 +1,7 @@
 Python history blog articles
 ===========================
 
-This script take articles from the [.blog](http://python-history.blogspot.com) and generate pdf file.
+This script take articles from the [blog](http://python-history.blogspot.com) and generate pdf file.
 
 How to run it
 -------------
