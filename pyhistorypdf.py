@@ -40,7 +40,9 @@ for postlink in postlinks:
     try:
         title = titleraw[0]
     except IndexError:
+        title = 'No title grabbed'
         print "No title for %s" % postlink
+        
     try:
         body = etree.tostring(bodyraw[0])
     except:
@@ -49,10 +51,12 @@ for postlink in postlinks:
     try:
         author = authorraw[0]
     except IndexError:
+        author = 'No author grabbed'
         print "No author for %s" % postlink
     try:
         date = dateraw[0]
     except IndexError:
+        date = 'No date scraped'
         print "No date for %s" % postlink
 
     topic = ''
